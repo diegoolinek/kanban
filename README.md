@@ -42,3 +42,11 @@ Este é um projeto de quadro Kanban interativo desenvolvido com HTML, CSS e Java
 <li>Efeitos de hover e drag</li>
 <li>Barra de rolagem personalizada</li>
 </ul>
+<hr>
+
+```bash
+# Clone o projeto
+$ git clone https://github.com/diegoolinek/kanban.git
+
+# Abra o arquivo index.html no seu navegador favorito.
+```  
