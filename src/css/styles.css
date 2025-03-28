@@ -37,6 +37,7 @@ body {
     overflow: hidden;
     position: relative;
     min-width: 252px;
+    max-width: 252px;
 }
 
 .kanban-column::after {
@@ -148,6 +149,15 @@ body {
     height: 42px;
     border-radius: 100%;
     object-fit: cover;
+}
+
+.dragging {
+    opacity: 0.5;
+}
+
+.cards-hover {
+    background-color: #eaeffa;
+    border-radius: 8px;
 }
 
 *::-webkit-scrollbar {
