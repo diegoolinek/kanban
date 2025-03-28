@@ -2,6 +2,9 @@
 
 Este é um projeto de quadro Kanban interativo desenvolvido com HTML, CSS e JavaScript, permitindo o gerenciamento visual de tarefas em diferentes estágios de desenvolvimento.
 
+
+## 🌐 Acesse o projeto online
+https://kanban-nine-jet.vercel.app/
 <div align="center">
 <br>
 <img src="https://github.com/user-attachments/assets/45756e89-f3a9-40b4-adff-f0ecf0c4c8f7" width="1000px" />
